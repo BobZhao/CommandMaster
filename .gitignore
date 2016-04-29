@@ -1,0 +1,8 @@
+# Created by .ignore support plugin
+### Example user template
+
+# IntelliJ project files
+.idea
+out
+target
+.DS_Store
